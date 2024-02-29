@@ -1,0 +1,17 @@
+.middle-section{
+    display: flex;
+    justify-content: space-between;
+    width:100px;
+    /* float: right; */
+}
+.widget{
+    height: 100px;
+    background-color: rgb(156, 156, 12);
+    border-radius: 10px;
+    margin: 5px;
+    box-shadow: 5px 5px 5px 5px #fff5ffcf;
+}
+&.left{
+    width: 890px;
+
+}

@@ -1,0 +1,19 @@
+.main-container{
+    display: flex;
+}
+.side-nav{
+    width:250px;
+    min-width: 250px;
+    min-height: 70px;
+    height: 700px;
+    background-color: rgb(4, 9, 66);
+    color: beige;
+    box-shadow: 5px 5px 5px;
+}
+.main{
+    padding: 30px;
+}
+.container{
+    height: auto;
+    color: black;
+}
